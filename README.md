@@ -13,7 +13,7 @@ n.1 NXP FRDM KL25Z board
 n.1 pannel connector xlr 3 pole
 n.1 pannel connector USB 
 
-When power on, OLED display a intro-screen and a backgroung pattern for bar-graph, with number of initial default eight dmx channel:
+When power on, display show a intro-screen and a backgroung pattern for bar-graph, with number of initial default eight dmx channel:
 ch1 to ch8.
 
 With stick pan move, eigth controlled dmx channel switch left-or right by one position:
@@ -24,7 +24,8 @@ With stick tilt move, eigth controlled dmx channel switch left-or right by eight
 one move of stick in up position --> dmx channel controlled are ch9 to ch 16; 
 now, one move in down position --> dmx channel controlled are ch1 to ch8.
 
-With stick push button, device enter in fine-controll mode, to allow fine change of every dmx channle value.
+With stick push button, device enter in fine-control mode, to allow fine change of every dmx channle value;
+repush button device return in standard-control mode.
 
 
 With anti-clockwise rotation of an encoder, correspond dmx channel increment;
