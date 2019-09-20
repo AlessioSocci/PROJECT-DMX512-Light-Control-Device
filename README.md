@@ -33,5 +33,5 @@ with clockwise rotation, decrement.
 
 With encoder push button, correspond dmx channel set at 100%, repushing button the correspond dmx channel return to previous value.
 
-Display show eigth bar-graph correspond to value of the eight channel selected bu stick.
+Display show eigth bar-graph correspond to value of the eight channel selected by stick.
 
