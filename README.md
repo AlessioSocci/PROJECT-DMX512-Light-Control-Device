@@ -5,13 +5,13 @@ Light control with DMX 512 serial protocol.
 
 Device is formed by:
 
-n.8 encoder "KY040"
-n.1 joystick 
+N.8 encoder "KY040"
+N.1 joystick 
 N.1 OLED screen 0.96" dual-color with SSD1306 driver
 N.1 transceiver UART-RS485 physical-layer
-n.1 NXP FRDM KL25Z board
-n.1 pannel connector xlr 3 pole
-n.1 pannel connector USB 
+N.1 NXP FRDM KL25Z board
+N.1 pannel connector xlr 3 pole
+N.1 pannel connector USB 
 
 When power on, display show a intro-screen and a backgroung pattern for bar-graph, with number of initial default eight dmx channel:
 ch1 to ch8.
